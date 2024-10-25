@@ -9,7 +9,9 @@ salary data.csv ----> A new data set was created for professions related to the 
 
 RandomForest.ipynb ----> Random Forest classification algorithm was used for gender prediction.
 
-PolynomialRegression.ipynb ----> Polynomial regression model is preferred for salary forecasts to increase the depth of the analysis. The picture I added here is about why it is 3rd order because it causes problems when uploading it here. ![Uploading hepsi 1.jpg…]()
+PolynomialRegression.ipynb ----> Polynomial regression model is preferred for salary forecasts to increase the depth of the analysis. The picture I added here is about why it is 3rd order because it causes problems when uploading it here.
+
+![Uploading hepsi 1.jpg…]()
 
 
 
