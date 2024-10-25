@@ -1,0 +1,2479 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+45.0,Male,PhD,Senior Manager,15.0,150000.0
+36.0,Female,Bachelor's,Sales Associate,7.0,60000.0
+52.0,Male,Master's,Director,20.0,200000.0
+42.0,Female,Master's,Product Manager,12.0,120000.0
+31.0,Male,Bachelor's,Sales Manager,4.0,80000.0
+26.0,Female,Bachelor's,Marketing Coordinator,1.0,45000.0
+48.0,Female,Bachelor's,HR Manager,18.0,140000.0
+27.0,Male,Bachelor's,Customer Service Rep,2.0,40000.0
+44.0,Male,Bachelor's,Operations Manager,16.0,125000.0
+33.0,Female,Master's,Marketing Manager,7.0,90000.0
+51.0,Male,Bachelor's,Sales Director,22.0,180000.0
+47.0,Male,Master's,VP of Operations,19.0,190000.0
+36.0,Female,Bachelor's,Recruiter,9.0,60000.0
+41.0,Male,Master's,Financial Manager,13.0,140000.0
+28.0,Female,Bachelor's,Social Media Specialist,3.0,45000.0
+43.0,Female,PhD,Senior Consultant,15.0,140000.0
+50.0,Male,Bachelor's,CEO,25.0,250000.0
+31.0,Female,Bachelor's,Accountant,4.0,55000.0
+39.0,Female,Bachelor's,Marketing Specialist,10.0,65000.0
+46.0,Male,PhD,Senior Manager,20.0,170000.0
+35.0,Female,Bachelor's,HR Generalist,7.0,60000.0
+26.0,Female,Bachelor's,Customer Success Rep,1.0,40000.0
+49.0,Male,Bachelor's,Sales Executive,21.0,160000.0
+48.0,Male,Master's,Operations Director,18.0,190000.0
+36.0,Female,Bachelor's,Administrative Assistant,8.0,45000.0
+41.0,Male,Master's,Strategy Consultant,13.0,130000.0
+28.0,Female,Bachelor's,Copywriter,2.0,40000.0
+32.0,Male,Bachelor's,Account Manager,5.0,75000.0
+45.0,Female,Master's,Director of Marketing,16.0,180000.0
+51.0,Female,Bachelor's,Customer Service Manager,22.0,130000.0
+40.0,Female,Bachelor's,Event Coordinator,12.0,60000.0
+47.0,Male,Master's,VP of Finance,19.0,200000.0
+36.0,Male,Bachelor's,Sales Manager,9.0,95000.0
+30.0,Female,Bachelor's,Social Media Manager,4.0,55000.0
+35.0,Male,Master's,Product Manager,7.0,105000.0
+51.0,Female,Master's,Director of Operations,23.0,170000.0
+40.0,Female,Bachelor's,HR Manager,12.0,80000.0
+38.0,Female,Master's,Digital Marketing Manager,10.0,90000.0
+31.0,Female,Bachelor's,Customer Service Representative,5.0,45000.0
+34.0,Male,Master's,Business Development Manager,8.0,90000.0
+39.0,Female,Bachelor's,Recruiter,11.0,70000.0
+42.0,Female,Master's,Creative Director,14.0,120000.0
+50.0,Female,Bachelor's,Operations Manager,22.0,160000.0
+48.0,Female,Master's,Human Resources Director,20.0,180000.0
+30.0,Female,Bachelor's,Content Marketing Manager,3.0,55000.0
+36.0,Male,Bachelor's,Technical Recruiter,8.0,70000.0
+25.0,Male,Bachelor's,Sales Representative,0.0,30000.0
+34.0,Female,Master's,Financial Advisor,10.0,95000.0
+27.0,Male,Bachelor's,Junior Account Manager,2.0,45000.0
+40.0,Female,Bachelor's,HR Generalist,15.0,80000.0
+31.0,Female,Bachelor's,Marketing Coordinator,6.0,55000.0
+29.0,Female,Bachelor's,Sales Associate,3.0,40000.0
+43.0,Male,Bachelor's,Supply Chain Manager,18.0,105000.0
+52.0,Female,Master's,Senior Marketing Manager,25.0,170000.0
+39.0,Female,Bachelor's,Training Specialist,12.0,65000.0
+38.0,Female,Master's,Public Relations Manager,10.0,90000.0
+31.0,Female,Bachelor's,Event Coordinator,5.0,45000.0
+35.0,Male,Master's,Product Marketing Manager,8.0,95000.0
+49.0,Female,Master's,Senior HR Manager,19.0,150000.0
+28.0,Male,Bachelor's,Customer Success Manager,2.0,40000.0
+42.0,Female,Master's,Senior Graphic Designer,15.0,110000.0
+40.0,Female,Bachelor's,Office Manager,15.0,65000.0
+29.0,Female,Bachelor's,Junior HR Generalist,3.0,45000.0
+35.0,Male,Master's,Senior Product Manager,10.0,120000.0
+42.0,Female,Bachelor's,Sales Manager,17.0,100000.0
+53.0,Male,Master's,Director of Marketing,25.0,180000.0
+38.0,Male,Bachelor's,Customer Service Manager,11.0,80000.0
+37.0,Female,Master's,Senior HR Generalist,9.0,95000.0
+45.0,Male,Bachelor's,Sales Operations Manager,18.0,110000.0
+32.0,Female,Bachelor's,Marketing Coordinator,4.0,50000.0
+50.0,Female,Master's,Director of Operations,21.0,160000.0
+40.0,Female,Master's,Senior Training Specialist,12.0,100000.0
+27.0,Male,Bachelor's,Junior Sales Representative,1.0,35000.0
+39.0,Female,Bachelor's,Administrative Assistant,10.0,55000.0
+30.0,Female,Bachelor's,Junior Marketing Manager,4.0,50000.0
+43.0,Female,Master's,Senior Product Marketing Manager,14.0,120000.0
+41.0,Female,Master's,Senior Marketing Manager,13.0,110000.0
+47.0,Male,Bachelor's,Senior Sales Manager,20.0,135000.0
+25.0,Female,Master's,Junior Marketing Specialist,1.5,40000.0
+38.0,Female,Bachelor's,Senior Accountant,10.0,80000.0
+45.0,Male,Master's,Director of Sales,19.0,175000.0
+29.0,Female,Bachelor's,Junior Recruiter,3.0,45000.0
+36.0,Male,Master's,Senior Business Development Manager,11.0,120000.0
+26.0,Male,Bachelor's,Junior Customer Support Specialist,2.0,35000.0
+33.0,Male,Master's,Senior Operations Manager,7.0,115000.0
+51.0,Female,PhD,Director of Human Resources,23.0,185000.0
+39.0,Female,Bachelor's,Senior Sales Representative,12.0,90000.0
+48.0,Male,Master's,Director of Product Management,21.0,175000.0
+30.0,Female,Bachelor's,Junior Copywriter,3.0,45000.0
+35.0,Male,Bachelor's,Senior Marketing Coordinator,7.0,80000.0
+41.0,Female,Master's,Senior Human Resources Manager,13.0,120000.0
+27.0,Male,Bachelor's,Junior Business Development Associate,1.5,35000.0
+40.0,Female,Bachelor's,Senior Account Manager,14.0,110000.0
+31.0,Female,Bachelor's,Junior HR Coordinator,4.0,50000.0
+50.0,Female,Master's,Director of Finance,20.0,180000.0
+29.0,Male,Bachelor's,Junior Marketing Coordinator,2.0,40000.0
+42.0,Female,PhD,Senior Marketing Manager,18.0,140000.0
+38.0,Female,Bachelor's,Senior Human Resources Coordinator,10.0,80000.0
+46.0,Male,Master's,Director of Operations,20.0,170000.0
+29.0,Female,Bachelor's,Junior Sales Representative,2.0,40000.0
+27.0,Male,Bachelor's,Junior Product Manager,2.0,40000.0
+36.0,Female,Bachelor's,Senior Marketing Specialist,8.0,85000.0
+50.0,Female,PhD,Director of Sales and Marketing,22.0,180000.0
+39.0,Female,Bachelor's,Senior Account Executive,12.0,95000.0
+47.0,Male,Master's,Director of Business Development,19.0,170000.0
+30.0,Female,Bachelor's,Junior Social Media Manager,3.0,45000.0
+34.0,Male,Bachelor's,Senior Product Manager,7.0,95000.0
+40.0,Female,Master's,Senior Human Resources Specialist,13.0,120000.0
+41.0,Female,Bachelor's,Senior Marketing Coordinator,11.0,90000.0
+32.0,Female,Bachelor's,Junior Account Manager,5.0,55000.0
+49.0,Female,Master's,Director of Human Capital,21.0,180000.0
+30.0,Male,Bachelor's,Junior Advertising Coordinator,3.0,45000.0
+44.0,Male,Bachelor's,Senior Sales Manager,16.0,130000.0
+36.0,Male,Bachelor's,Senior Accountant,7.0,90000.0
+41.0,Female,PhD,Senior Marketing Director,17.0,160000.0
+31.0,Male,Bachelor's,Junior HR Generalist,4.0,50000.0
+39.0,Female,Bachelor's,Senior Operations Manager,10.0,120000.0
+47.0,Male,Master's,Director of Finance,20.0,170000.0
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0
+50.0,Female,PhD,Director of Operations,22.0,180000.0
+40.0,Female,Bachelor's,Senior Sales Representative,12.0,100000.0
+48.0,Male,Master's,Director of Marketing,19.0,170000.0
+31.0,Female,Bachelor's,Junior Social Media Specialist,3.0,45000.0
+42.0,Female,Master's,Senior Human Resources Manager,13.0,140000.0
+40.0,Female,Bachelor's,Senior Marketing Manager,11.0,105000.0
+33.0,Female,Bachelor's,Junior Operations Manager,5.0,70000.0
+51.0,Female,Master's,Director of Human Resources,21.0,190000.0
+30.0,Male,Bachelor's,Junior Marketing Specialist,3.0,45000.0
+42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0
+32.0,Male,Bachelor's,Junior Sales Representative,3.0,45000.0
+39.0,Male,Bachelor's,Senior Marketing Specialist,10.0,120000.0
+44.0,Female,PhD,Senior HR Manager,18.0,160000.0
+38.0,Female,Bachelor's,Senior Product Manager,10.0,120000.0
+36.0,Male,Bachelor's,Senior Operations Manager,8.0,95000.0
+49.0,Female,Master's,Director of Marketing,21.0,180000.0
+47.0,Male,Master's,Director of Operations,20.0,170000.0
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0
+50.0,Female,PhD,Director of Operations,22.0,180000.0
+37.0,Female,Bachelor's,Senior Financial Manager,10.0,120000.0
+31.0,Female,Bachelor's,Junior Marketing Coordinator,3.0,50000.0
+42.0,Male,Bachelor's,Senior Operations Manager,12.0,110000.0
+29.0,Female,Bachelor's,Junior Sales Representative,1.5,40000.0
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0
+44.0,Female,Master's,Senior HR Specialist,15.0,140000.0
+33.0,Male,Bachelor's,Junior Operations Manager,4.0,60000.0
+39.0,Female,Bachelor's,Senior Marketing Coordinator,9.0,110000.0
+32.0,Female,Bachelor's,Junior Marketing Manager,4.0,60000.0
+47.0,Female,Master's,Director of Marketing,20.0,180000.0
+36.0,Male,Bachelor's,Senior Product Manager,8.0,95000.0
+49.0,Female,Master's,Director of Operations,21.0,180000.0
+47.0,Male,Master's,Director of Marketing,19.0,170000.0
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0
+32.0,Male,Bachelor's,Junior Product Manager,4.0,65000.0
+49.0,Male,PhD,Director of Operations,21.0,180000.0
+29.0,Female,Bachelor's,Junior Marketing Specialist,2.0,40000.0
+35.0,Male,Bachelor's,Senior Business Development Manager,7.0,90000.0
+45.0,Female,Master's,Senior HR Manager,14.0,140000.0
+40.0,Female,Bachelor's,Senior Marketing Manager,12.0,130000.0
+30.0,Female,Bachelor's,Junior Operations Coordinator,2.0,40000.0
+48.0,Female,Master's,Director of HR,20.0,180000.0
+38.0,Female,Bachelor's,Senior Operations Coordinator,9.0,120000.0
+33.0,Female,Bachelor's,Junior Marketing Manager,5.0,70000.0
+49.0,Female,Master's,Director of Marketing,21.0,180000.0
+47.0,Male,Master's,Director of Marketing,19.0,170000.0
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0
+34.0,Female,Master's,Senior Financial Advisor,6.0,80000.0
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0
+30.0,Female,Bachelor's,Junior HR Coordinator,2.0,40000.0
+37.0,Male,Bachelor's,Senior Business Development Manager,10.0,120000.0
+45.0,Female,Master's,Senior Marketing Manager,16.0,160000.0
+32.0,Male,Bachelor's,Junior Financial Advisor,4.0,65000.0
+36.0,Male,Bachelor's,Senior Operations Manager,9.0,100000.0
+32.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0
+48.0,Male,Master's,Director of Marketing,21.0,180000.0
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0
+47.0,Male,Master's,Director of Operations,19.0,170000.0
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0
+43.0,Male,Master's,Director of Marketing,18.0,170000.0
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0
+28.0,Female,Bachelor's,Junior Operations Manager,1.0,35000.0
+36.0,Male,Bachelor's,Senior Business Development Manager,8.0,110000.0
+31.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0
+48.0,Male,Master's,Director of Marketing,21.0,180000.0
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0
+47.0,Male,Master's,Director of Operations,19.0,170000.0
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0
+43.0,Male,Master's,Director of Marketing,18.0,170000.0
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0
+43.0,Male,Master's,Director of Operations,19.0,170000.0
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0
+26.0,Male,Master's,Product Manager,2.0,120000.0
+32.0,Male,Bachelor's,Product Manager,7.0,170000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+26.0,Female,Master's,Product Manager,2.0,120000.0
+32.0,Male,Bachelor's,Product Manager,7.0,170000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+26.0,Female,Master's,Product Manager,2.0,120000.0
+32.0,Male,Bachelor's,Product Manager,7.0,170000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+26.0,Female,Master's,Product Manager,2.0,120000.0
+32.0,Male,Bachelor's,Product Manager,7.0,170000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+26.0,Female,Master's,Product Manager,2.0,120000.0
+32.0,Male,Bachelor's,Product Manager,7.0,170000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+28.0,Male,Master's,Product Manager,3.0,130000.0
+34.0,Male,Bachelor's,Product Manager,9.0,185000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+30.0,Female,Bachelor's,Product Manager,5.0,160000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Male,Master's,Product Manager,11.0,198000.0
+34.0,Male,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+30.0,Female,Bachelor's,Product Manager,5.0,160000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Male,Master's,Product Manager,11.0,198000.0
+34.0,Male,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+24.0,Female,Bachelor's,Product Manager,3.0,125000.0
+33.0,Female,Master's,Product Manager,10.0,195000.0
+34.0,Female,Master's,Product Manager,11.0,196000.0
+30.0,Female,Bachelor's,Product Manager,5.0,160000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Male,Master's,Product Manager,11.0,198000.0
+34.0,Male,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,196000.0
+27.0,Female,Bachelor's,Product Manager,4.0,150000.0
+33.0,Male,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+34.0,Female,Master's,Product Manager,12.0,196000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+33.0,Female,Master's,Product Manager,11.0,198000.0
+35.0,Female,Bachelor's Degree,Product Manager,8.0,165000.0
+35.0,Female,Bachelor's Degree,Product Manager,8.0,170000.0
+33.0,Female,Master's,Product Manager,11.0,190000.0
+27.0,Female,Bachelor's,Product Manager,4.0,130000.0
+33.0,Male,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+34.0,Female,Master's,Product Manager,12.0,190000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+33.0,Female,Master's,Product Manager,11.0,195000.0
+31.0,Male,Bachelor's,Product Manager,8.0,190000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+35.0,Female,Bachelor's,Product Manager,12.0,190000.0
+37.0,Male,PhD,Product Manager,14.0,195000.0
+30.0,Male,Bachelor's,Product Manager,8.0,185000.0
+31.0,Male,Master's Degree,Product Manager,6.0,120000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+29.0,Female,Bachelor's Degree,Product Manager,4.0,90000.0
+33.0,Male,Bachelor's Degree,Product Manager,8.0,130000.0
+30.0,Female,Master's Degree,Product Manager,6.0,110000.0
+36.0,Male,Master's Degree,Product Manager,10.0,160000.0
+32.0,Female,Master's Degree,Product Manager,7.0,120000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Female,Master's Degree,Product Manager,5.0,100000.0
+34.0,Female,Master's Degree,Product Manager,7.0,120000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+32.0,Male,Master's Degree,Product Manager,7.0,110000.0
+42.0,Male,Master's Degree,Product Manager,14.0,180000.0
+30.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,60000.0
+45.0,Female,Master's Degree,Senior Human Resources Manager,18.0,160000.0
+33.0,Male,PhD,Director of HR,9.0,120000.0
+22.0,Female,High School,Junior HR Generalist,0.0,40000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,75000.0
+42.0,Male,PhD,Director of HR,16.0,140000.0
+27.0,Female,Bachelor's Degree,Junior HR Coordinator,2.0,50000.0
+38.0,Male,Master's Degree,Senior Human Resources Manager,11.0,110000.0
+39.0,Female,PhD,Director of HR,13.0,130000.0
+26.0,Male,Bachelor's Degree,Junior HR Generalist,2.0,50000.0
+32.0,Female,Master's Degree,Senior HR Generalist,7.0,80000.0
+24.0,Female,High School,Junior HR Generalist,1.0,32000.0
+45.0,Male,PhD,Senior Human Resources Manager,12.0,120000.0
+38.0,Male,Bachelor's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,Master's Degree,Director of HR,5.0,80000.0
+31.0,Female,High School,Junior HR Coordinator,3.0,38000.0
+36.0,Male,Master's Degree,Senior HR Generalist,7.0,89000.0
+28.0,Male,High School,Junior HR Generalist,1.0,32000.0
+46.0,Male,PhD,Director of HR,15.0,150000.0
+37.0,Female,Master's Degree,Senior Human Resources Manager,9.0,105000.0
+43.0,Female,PhD,Director of HR,14.0,140000.0
+26.0,Female,High School,Junior HR Generalist,2.0,35000.0
+41.0,Male,Master's Degree,Senior HR Generalist,11.0,115000.0
+27.0,Female,High School,Junior HR Coordinator,1.0,30000.0
+40.0,Male,PhD,Director of HR,13.0,135000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Senior Human Resources Manager,12.0,120000.0
+45.0,Male,Master's Degree,Director of HR,14.0,140000.0
+38.0,Male,PhD,Senior Human Resources Manager,11.0,115000.0
+27.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+33.0,Male,High School,Junior HR Coordinator,3.0,38000.0
+42.0,Female,Master's Degree,Director of HR,13.0,135000.0
+30.0,Male,High School,Junior HR Generalist,1.0,32000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,12.0,120000.0
+39.0,Male,Master's Degree,Senior HR Generalist,9.0,95000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,14.0,140000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,13.0,135000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,13.0,135000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,14.0,140000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,13.0,135000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,14.0,140000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,13.0,135000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,14.0,140000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+24.0,Female,High School,Junior HR Generalist,1.0,32000.0
+45.0,Male,PhD,Senior Human Resources Manager,12.0,120000.0
+38.0,Male,Bachelor's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,Master's Degree,Director of HR,5.0,80000.0
+31.0,Female,High School,Junior HR Coordinator,3.0,38000.0
+36.0,Male,Master's Degree,Senior HR Generalist,7.0,89000.0
+28.0,Male,High School,Junior HR Generalist,1.0,32000.0
+46.0,Male,PhD,Director of HR,15.0,150000.0
+37.0,Female,Master's Degree,Senior Human Resources Manager,9.0,105000.0
+43.0,Female,PhD,Director of HR,14.0,140000.0
+26.0,Female,High School,Junior HR Generalist,2.0,35000.0
+41.0,Male,Master's Degree,Senior HR Generalist,11.0,115000.0
+27.0,Female,High School,Junior HR Coordinator,1.0,30000.0
+40.0,Male,PhD,Director of HR,13.0,135000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Senior Human Resources Manager,12.0,120000.0
+45.0,Male,Master's Degree,Director of HR,14.0,140000.0
+38.0,Male,PhD,Senior Human Resources Manager,11.0,115000.0
+27.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+33.0,Male,High School,Junior HR Coordinator,3.0,38000.0
+42.0,Female,Master's Degree,Director of HR,13.0,135000.0
+30.0,Male,High School,Junior HR Generalist,1.0,32000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,12.0,120000.0
+39.0,Male,Master's Degree,Senior HR Generalist,9.0,95000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,14.0,140000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,13.0,135000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,13.0,135000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,14.0,140000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,13.0,135000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,14.0,140000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0
+31.0,Male,High School,Junior HR Generalist,2.0,35000.0
+44.0,Female,PhD,Director of HR,13.0,135000.0
+32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0
+45.0,Male,PhD,Director of HR,14.0,140000.0
+38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0
+27.0,Female,High School,Junior HR Generalist,1.0,32000.0
+42.0,Female,Master's Degree,Director of HR,12.0,120000.0
+29.0,Male,Master's Degree,Senior Human Resources Manager,4.0,70000.0
+30.0,Male,High School,Junior HR Coordinator,2.0,33000.0
+43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0
+25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0
+37.0,Male,PhD,Director of HR,11.0,115000.0
+37.0,Female,Master's Degree,Marketing Manager,9.0,100000.0
+31.0,Female,Bachelor's Degree,Human Resources Coordinator,4.0,55000.0
+24.0,Male,High School,Junior Sales Associate,1.0,30000.0
+35.0,Male,Bachelor's Degree,Operations Manager,8.0,90000.0
+26.0,Female,Master's Degree,Marketing Coordinator,2.0,40000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+28.0,Male,High School,Junior Sales Associate,2.0,35000.0
+39.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+29.0,Female,High School,Junior Sales Associate,1.0,30000.0
+38.0,Female,Master's Degree,Marketing Manager,9.0,100000.0
+30.0,Female,Bachelor's Degree,Human Resources Coordinator,4.0,55000.0
+23.0,Male,High School,Junior Sales Associate,1.0,30000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,90000.0
+25.0,Female,Master's Degree,Marketing Coordinator,2.0,40000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,35000.0
+37.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+35.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0
+30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0
+26.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+27.0,Male,High School,Junior Sales Associate,2.0,35000.0
+38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+28.0,Female,High School,Junior Sales Associate,1.0,30000.0
+32.0,Female,Master's Degree,Marketing Manager,7.0,90000.0
+28.0,Female,Bachelor's Degree,Human Resources Coordinator,4.0,60000.0
+22.0,Male,High School,Junior Sales Associate,1.0,25000.0
+36.0,Male,Bachelor's Degree,Operations Manager,8.0,100000.0
+27.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,45000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+25.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0
+31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0
+27.0,Female,Master's Degree,Human Resources Coordinator,3.0,50000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0
+26.0,Male,High School,Junior Sales Associate,2.0,30000.0
+39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0
+40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0
+29.0,Female,High School,Junior Sales Associate,1.0,25000.0
+27.0,Female,Master's Degree,Marketing Manager,3.0,60000.0
+29.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,45000.0
+23.0,Male,High School,Junior Sales Associate,1.0,25000.0
+44.0,Male,Bachelor's Degree,Operations Manager,18.0,170000.0
+26.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,40000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+39.0,Female,Master's Degree,Marketing Coordinator,11.0,120000.0
+32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0
+28.0,Female,Master's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0
+24.0,Male,High School,Junior Sales Associate,1.0,25000.0
+35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0
+41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0
+36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0
+28.0,Female,High School,Junior Sales Associate,1.0,25000.0
+31.0,Female,Master's Degree,Marketing Manager,4.0,62000.0
+27.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,47000.0
+25.0,Male,High School,Junior Sales Associate,1.0,26000.0
+45.0,Male,Bachelor's Degree,Operations Manager,19.0,174000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,41000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+40.0,Female,Master's Degree,Marketing Coordinator,12.0,122000.0
+33.0,Male,Bachelor's Degree,Operations Manager,7.0,96000.0
+29.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0
+23.0,Male,High School,Junior Sales Associate,1.0,26000.0
+36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0
+43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0
+37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0
+29.0,Female,High School,Junior Sales Associate,1.0,26000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,41000.0
+24.0,Male,High School,Junior Sales Associate,1.0,26000.0
+31.0,Female,Master's Degree,Marketing Manager,5.0,68000.0
+39.0,Male,Bachelor's Degree,Operations Manager,13.0,127000.0
+25.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,47000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0
+30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0
+35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0
+26.0,Male,High School,Junior Sales Associate,1.0,26000.0
+37.0,Female,Master's Degree,Marketing Manager,12.0,125000.0
+44.0,Female,Master's Degree,Human Resources Manager,15.0,152000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,26000.0
+41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0
+42.0,Female,Master's Degree,Marketing Manager,16.0,137000.0
+29.0,Female,Bachelor's Degree,Human Resources Coordinator,2.0,45000.0
+33.0,Male,High School,Junior Sales Associate,1.0,25000.0
+36.0,Female,Bachelor's Degree,Operations Manager,7.0,91000.0
+49.0,Male,Master's Degree,Marketing Manager,23.0,228000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0
+31.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0
+30.0,Female,High School,Junior Sales Associate,1.0,25000.0
+45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0
+35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0
+32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0
+31.0,Female,Master's Degree,Director of HR,6.0,95000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+32.0,Male,Bachelor's Degree,Junior HR Generalist,5.0,60000.0
+39.0,Male,Master's Degree,Director of HR,12.0,120000.0
+23.0,Female,Bachelor's Degree,Junior HR Generalist,1.0,32000.0
+26.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,35000.0
+42.0,Male,PhD,Senior Human Resources Manager,14.0,130000.0
+34.0,Female,Master's Degree,Director of HR,9.0,95000.0
+28.0,Male,High School,Juniour HR Generalist,2.0,43000.0
+31.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,50000.0
+35.0,Female,Master's Degree,Senior HR Generalist,8.0,80000.0
+40.0,Female,PhD,Director of HR,13.0,125000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+29.0,Male,Master's Degree,Senior HR Generalist,4.0,70000.0
+25.0,Female,High School,Juniour HR Coordinator,1.0,32000.0
+27.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+31.0,Male,PhD,Senior Human Resources Manager,7.0,90000.0
+42.0,Female,Master's Degree,Senior HR Generalist,12.0,110000.0
+34.0,Male,Master's Degree,Director of HR,10.0,105000.0
+28.0,Female,Bachelor's Degree,Junior HR Generalist,3.0,50000.0
+33.0,Male,PhD,Director of HR,8.0,95000.0
+25.0,Male,High School,Junior HR Generalist,2.0,40000.0
+26.0,Female,Master's Degree,Senior HR Generalist,2.0,55000.0
+24.0,Female,High School,Juniour HR Coordinator,1.0,32000.0
+31.0,Male,Master's Degree,Director of HR,7.0,90000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,1.0,32000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+33.0,Female,Bachelor's Degree,Junior HR Generalist,7.0,65000.0
+28.0,Female,Bachelor's Degree,Junior HR Coordinator,3.0,45000.0
+34.0,Male,PhD,Director of HR,9.0,95000.0
+26.0,Male,Bachelor's Degree,Junior HR Coordinator,2.0,38000.0
+42.0,Female,Master's Degree,Senior Human Resources Manager,13.0,125000.0
+28.0,Female,High School,Juniour HR Generalist,2.0,43000.0
+31.0,Male,Bachelor's Degree,Junior HR Generalist,5.0,60000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+32.0,Male,Master's Degree,Director of HR,6.0,95000.0
+27.0,Female,Master's Degree,Junior HR Generalist,2.0,42000.0
+39.0,Male,Master's Degree,Senior HR Generalist,11.0,100000.0
+23.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,32000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+42.0,Male,PhD,Director of HR,14.0,130000.0
+34.0,Female,Master's Degree,Director of HR,9.0,95000.0
+31.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,50000.0
+35.0,Female,Master's Degree,Senior HR Generalist,8.0,80000.0
+40.0,Female,PhD,Director of HR,13.0,125000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+29.0,Male,Master's Degree,Senior HR Generalist,4.0,70000.0
+25.0,Female,High School,Junior HR Coordinator,1.0,32000.0
+27.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+31.0,Male,PhD,Senior Human Resources Manager,7.0,90000.0
+42.0,Female,Master's Degree,Senior HR Generalist,12.0,110000.0
+34.0,Male,Master's Degree,Director of HR,10.0,105000.0
+28.0,Female,Bachelor's Degree,Junior HR Generalist,3.0,50000.0
+33.0,Male,PhD,Director of HR,8.0,95000.0
+25.0,Male,High School,Junior HR Generalist,2.0,40000.0
+26.0,Female,Master's Degree,Senior HR Generalist,2.0,55000.0
+24.0,Female,High School,Juniour HR Coordinator,1.0,32000.0
+31.0,Male,Master's Degree,Director of HR,7.0,90000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,1.0,32000.0
+29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0
+33.0,Female,Bachelor's Degree,Junior HR Generalist,7.0,65000.0
+28.0,Female,Bachelor's Degree,Junior HR Coordinator,3.0,45000.0
+34.0,Male,PhD,Director of HR,9.0,95000.0
+26.0,Male,Bachelor's Degree,Junior HR Coordinator,2.0,38000.0
+42.0,Female,Master's Degree,Senior Human Resources Manager,13.0,125000.0
+28.0,Female,High School,Juniour HR Generalist,2.0,43000.0
+31.0,Male,Bachelor's Degree,Junior HR Generalist,5.0,60000.0
+35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0
+32.0,Male,Master's Degree,Director of HR,6.0,95000.0
+27.0,Female,Master's Degree,Junior HR Generalist,2.0,42000.0
+39.0,Male,Master's Degree,Senior HR Generalist,11.0,100000.0
+23.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,32000.0
+26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0
+42.0,Male,PhD,Director of HR,14.0,130000.0
+34.0,Female,Master's Degree,Director of HR,9.0,95000.0
+31.0,Female,Bachelor's Degree,Junior HR Coordinator,4.0,500.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0
+31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0
+25.0,Male,High School,Junior Sales Associate,1.0,30000.0
+29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0
+32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0
+26.0,Male,High School,Junior Sales Associate,2.0,31000.0
+30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+22.0,Female,High School,Sales Associate,0.0,25000.0
+45.0,Male,Bachelor's Degree,Financial Manager,21.0,250000.0
+31.0,Female,Master's Degree,Content Marketing Manager,8.0,120000.0
+28.0,Male,Bachelor's Degree,Digital Marketing Manager,4.0,80000.0
+29.0,Male,Bachelor's Degree,Senior Product Marketing Manager,6.0,100000.0
+35.0,Female,PhD,Director of Marketing,12.0,170000.0
+27.0,Male,High School,Sales Representative,3.0,50000.0
+33.0,Female,Bachelor's Degree,Marketing Manager,9.0,140000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,2.0,55000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+29.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0
+30.0,Male,Master's Degree,Financial Manager,7.0,120000.0
+28.0,Female,PhD,Director of Marketing,6.0,105000.0
+26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0
+28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0
+34.0,Male,PhD,Director of Marketing,12.0,170000.0
+31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0
+24.0,Female,High School,Sales Associate,1.0,30000.0
+29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0
+27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0
+33.0,Male,PhD,Sales Director,10.0,155000.0
+21.0,Female,High School,Junior Sales Representative,0.0,25000.0
+36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,12.0,150000.0
+38.0,Female,Master's Degree,Marketing Director,14.0,170000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,7.0,120000.0
+39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+23.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+32.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+36.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+25.0,Female,High School,Sales Associate,0.0,25000.0
+27.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Manager,3.0,55000.0
+22.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0
+38.0,Female,Master's Degree,Marketing Manager,14.0,170000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+31.0,Female,Master's Degree,Financial Manager,8.0,120000.0
+35.0,Female,Master's Degree,Marketing Director,11.0,160000.0
+29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0
+33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0
+24.0,Female,High School,Sales Associate,0.0,25000.0
+26.0,Female,Bachelor's Degree,Social Media Man,7.0,100000.0
+33.0,Male,Master's Degree,Marketing Manager,9.0,130000.0
+29.0,Female,High School,Customer Service Representative,3.0,35000.0
+27.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,50000.0
+30.0,Female,Bachelor's Degree,Sales Manager,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,180000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0
+29.0,Male,Bachelor's Degree,Product Manager,5.0,80000.0
+31.0,Female,Bachelor's Degree,Marketing Manager,7.0,100000.0
+33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,110000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+32.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+27.0,Male,Bachelor's Degree,Product Manager,2.0,65000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0
+29.0,Male,Bachelor's Degree,Product Manager,5.0,80000.0
+31.0,Female,Bachelor's Degree,Marketing Manager,7.0,100000.0
+33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,110000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+27.0,Male,phD,Marketing Coordinator,7.0,120000.0
+28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0
+27.0,Female,Bachelor's Degree,Product Manager,2.0,65000.0
+29.0,Female,Bachelor's Degree,Product Manager,5.0,80000.0
+31.0,Female,Bachelor's Degree,Marketing Manager,7.0,100000.0
+33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,110000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+37.0,Male,Master's Degree,Marketing Director,14.0,190000.0
+39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0
+29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0
+28.0,Female,Bachelor's Degree,Product Manager,3.0,70000.0
+30.0,Female,Bachelor's Degree,Product Manager,5.0,85000.0
+32.0,Female,Bachelor's Degree,Marketing Manager,8.0,115000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Female,High School,Customer Service Representative,1.0,30000.0
+40.0,Female,Bachelor's Degree,Financial Manager,15.0,210000.0
+32.0,Female,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+32.0,Female,Bachelor's Degree,Marketing Manager,7.0,120000.0
+33.0,Female,Master's Degree,Product Manager,8.0,135000.0
+24.0,Male,High School,Delivery Driver,0.0,28000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0
+25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0
+30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0
+32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0
+24.0,Female,High School,Receptionist,0.0,25000.0
+38.0,Male,Master's Degree,Marketing Director,14.0,195000.0
+40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0
+29.0,Male,Bachelor's Degree,Sales Associate,2.0,45000.0
+45.0,Female,Master's Degree,Sales Manager,8.0,80000.0
+37.0,Male,PhD,Marketing Manager,7.0,90000.0
+23.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Financial Manager,12.0,120000.0
+26.0,Female,Bachelor's Degree,Digital Marketing Manager,4.0,60000.0
+33.0,Male,Master's Degree,Content Marketing Manager,5.0,70000.0
+28.0,Female,High School,Sales Representative,3.0,40000.0
+50.0,Male,PhD,Senior Product Marketing Manager,15.0,150000.0
+35.0,Female,Bachelor's Degree,Junior Sales Representative,2.0,35000.0
+42.0,Male,Master's Degree,Director of Marketing,13.0,130000.0
+27.0,Female,Bachelor's Degree,Sales Associate,1.0,35000.0
+48.0,Male,PhD,Sales Director,18.0,180000.0
+31.0,Female,High School,Financial Manager,4.0,60000.0
+36.0,Male,Bachelor's Degree,Sales Manager,6.0,75000.0
+25.0,Female,Master's Degree,Digital Marketing Manager,3.0,50000.0
+39.0,Male,PhD,Marketing Manager,10.0,100000.0
+30.0,Female,High School,Sales Executive,2.0,40000.0
+44.0,Male,Bachelor's Degree,Content Marketing Manager,11.0,110000.0
+29.0,Female,Master's Degree,Sales Representative,4.0,55000.0
+47.0,Male,PhD,Senior Product Marketing Manager,17.0,170000.0
+32.0,Female,Bachelor's Degree,Junior Sales Representative,3.0,40000.0
+38.0,Male,Master's Degree,Director of Marketing,9.0,95000.0
+24.0,Female,High School,Sales Associate,1.0,35000.0
+40.0,Male,PhD,Sales Director,14.0,140000.0
+34.0,Female,Bachelor's Degree,Financial Manager,5.0,70000.0
+26.0,Male,Master's Degree,Digital Marketing Manager,3.0,50000.0
+31.0,Female,PhD,Marketing Manager,6.0,75000.0
+27.0,Male,High School,Sales Executive,2.0,40000.0
+43.0,Female,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+28.0,Male,Master's Degree,Sales Representative,2.0,40000.0
+46.0,Female,PhD,Senior Product Marketing Manager,16.0,160000.0
+33.0,Male,Bachelor's Degree,Junior Sales Representative,4.0,55000.0
+39.0,Female,Master's Degree,Director of Marketing,10.0,100000.0
+25.0,Male,High School,Sales Associate,1.0,35000.0
+41.0,Female,Bachelor's Degree,Sales Manager,8.0,80000.0
+35.0,Male,PhD,Marketing Manager,7.0,90000.0
+23.0,Female,Bachelor's Degree,Sales Executive,1.0,35000.0
+42.0,Male,Master's Degree,Financial Manager,13.0,130000.0
+26.0,Female,Bachelor's Degree,Digital Marketing Manager,4.0,60000.0
+32.0,Male,Master's Degree,Content Marketing Manager,5.0,70000.0
+27.0,Female,High School,Sales Representative,3.0,40000.0
+50.0,Male,PhD,Senior Product Marketing Manager,15.0,150000.0
+36.0,Female,Bachelor's Degree,Junior Sales Representative,2.0,35000.0
+48.0,Male,Master's Degree,Director of Marketing,18.0,180000.0
+31.0,Female,High School,Sales Associate,2.0,40000.0
+29.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+45.0,Female,PhD,Financial Manager,12.0,120000.0
+25.0,Male,Master's Degree,Digital Marketing Manager,3.0,50000.0
+37.0,Female,Bachelor's Degree,Marketing Manager,7.0,90000.0
+23.0,Male,High School,Sales Executive,1.0,35000.0
+41.0,Female,Bachelor's Degree,Content Marketing Manager,11.0,110000.0
+26.0,Male,Master's Degree,Sales Representative,3.0,45000.0
+33.0,Female,PhD,Senior Product Marketing Manager,5.0,70000.0
+28.0,Male,Bachelor's Degree,Junior Sales Representative,1.0,30000.0
+42.0,Female,Master's Degree,Director of Marketing,13.0,130000.0
+27.0,Male,High School,Financial Manager,4.0,60000.0
+50.0,Female,Bachelor's Degree,Sales Manager,15.0,150000.0
+35.0,Male,PhD,Marketing Manager,8.0,80000.0
+24.0,Female,Bachelor's Degree,Sales Executive,1.0,35000.0
+46.0,Male,Master's Degree,Content Marketing Manager,16.0,160000.0
+29.0,Female,High School,Sales Representative,2.0,40000.0
+47.0,Male,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Female,Bachelor's Degree,Junior Sales Representative,3.0,40000.0
+38.0,Male,Master's Degree,Director of Marketing,9.0,95000.0
+25.0,Female,High School,Sales Associate,1.0,35000.0
+39.0,Male,Bachelor's Degree,Sales Director,10.0,100000.0
+33.0,Female,PhD,Financial Manager,5.0,70000.0
+27.0,Male,Master's Degree,Digital Marketing Manager,3.0,50000.0
+43.0,Female,Bachelor's Degree,Marketing Manager,12.0,120000.0
+28.0,Male,High School,Sales Executive,2.0,40000.0
+31.0,Male,Bachelor's Degree,Sales Associate,3.0,50000.0
+46.0,Female,Master's Degree,Marketing Manager,14.0,140000.0
+27.0,Male,High School,Sales Executive,2.0,40000.0
+38.0,Female,Bachelor's Degree,Financial Manager,10.0,100000.0
+24.0,Male,PhD,Digital Marketing Manager,1.0,30000.0
+33.0,Female,Master's Degree,Content Marketing Manager,6.0,75000.0
+29.0,Male,High School,Sales Representative,2.0,40000.0
+50.0,Female,Bachelor's Degree,Sales Manager,18.0,180000.0
+35.0,Male,PhD,Senior Product Marketing Manager,8.0,80000.0
+23.0,Female,Bachelor's Degree,Sales Executive,1.0,35000.0
+41.0,Male,Master's Degree,Director of Marketing,12.0,120000.0
+26.0,Female,High School,Financial Manager,3.0,45000.0
+32.0,Male,Bachelor's Degree,Sales Director,7.0,90000.0
+27.0,Female,PhD,Marketing Manager,4.0,55000.0
+43.0,Male,Master's Degree,Content Marketing Manager,16.0,160000.0
+28.0,Female,Bachelor's Degree,Sales Representative,2.0,40000.0
+47.0,Male,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Female,High School,Junior Sales Representative,3.0,40000.0
+38.0,Male,Master's Degree,Director of Marketing,9.0,95000.0
+25.0,Female,High School,Sales Associate,1.0,35000.0
+39.0,Male,Bachelor's Degree,Sales Manager,11.0,110000.0
+33.0,Female,PhD,Financial Manager,6.0,75000.0
+27.0,Male,Master's Degree,Digital Marketing Manager,3.0,50000.0
+43.0,Female,Bachelor's Degree,Marketing Manager,12.0,120000.0
+28.0,Male,High School,Sales Executive,2.0,40000.0
+50.0,Female,Master's Degree,Content Marketing Manager,15.0,150000.0
+36.0,Male,Bachelor's Degree,Sales Representative,5.0,70000.0
+48.0,Female,PhD,Senior Product Marketing Manager,19.0,190000.0
+31.0,Male,High School,Junior Sales Representative,3.0,40000.0
+29.0,Female,Bachelor's Degree,Sales Director,6.0,75000.0
+45.0,Male,Master's Degree,Director of Marketing,14.0,140000.0
+25.0,Female,High School,Sales Associate,1.0,35000.0
+41.0,Male,Bachelor's Degree,Financial Manager,12.0,120000.0
+35.0,Female,PhD,Marketing Manager,8.0,80000.0
+23.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0
+42.0,Female,Master's Degree,Sales Manager,13.0,130000.0
+26.0,Male,High School,Digital Marketing Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0
+27.0,Male,PhD,Sales Representative,4.0,55000.0
+50.0,Female,Master's Degree,Senior Product Marketing Manager,18.0,180000.0
+36.0,Male,Bachelor's Degree,Junior Sales Representative,3.0,45000.0
+48.0,Female,PhD,Director of Marketing,19.0,190000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+37.0,Male,Master's Degree,Marketing Manager,11.0,110000.0
+26.0,Female,Bachelor's Degree,Sales Representative,2.0,40000.0
+42.0,Male,PhD,Content Marketing Manager,15.0,150000.0
+33.0,Female,High School,Sales Executive,4.0,55000.0
+29.0,Male,Bachelor's Degree,Sales Manager,5.0,70000.0
+45.0,Female,Master's Degree,Director of Marketing,16.0,160000.0
+24.0,Male,High School,Sales Associate,1.0,35000.0
+39.0,Female,Bachelor's Degree,Financial Manager,10.0,100000.0
+31.0,Male,PhD,Senior Product Marketing Manager,7.0,90000.0
+27.0,Female,Master's Degree,Digital Marketing Manager,3.0,50000.0
+43.0,Male,Bachelor's Degree,Content Marketing Manager,14.0,140000.0
+28.0,Female,High School,Sales Representative,2.0,40000.0
+50.0,Male,PhD,Marketing Manager,18.0,180000.0
+35.0,Female,Bachelor's Degree,Sales Executive,7.0,90000.0
+23.0,Male,Bachelor's Degree,Sales Manager,1.0,35000.0
+41.0,Female,Master's Degree,Director of Marketing,12.0,120000.0
+26.0,Male,High School,Financial Manager,3.0,45000.0
+32.0,Female,Bachelor's Degree,Sales Director,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,18.0,180000.0
+36.0,Male,Bachelor's Degree,Sales Representative,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,19.0,190000.0
+31.0,Male,High School,Junior Sales Representative,3.0,40000.0
+29.0,Female,Bachelor's Degree,Sales Director,5.0,70000.0
+45.0,Male,Master's Degree,Director of Marketing,15.0,150000.0
+25.0,Female,High School,Sales Associate,1.0,35000.0
+41.0,Male,Bachelor's Degree,Financial Manager,12.0,120000.0
+35.0,Female,PhD,Marketing Manager,8.0,80000.0
+23.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0
+42.0,Female,Master's Degree,Sales Manager,13.0,130000.0
+26.0,Male,High School,Digital Marketing Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0
+27.0,Male,PhD,Sales Representative,4.0,55000.0
+50.0,Female,Master's Degree,Senior Product Marketing Manager,18.0,180000.0
+36.0,Male,Bachelor's Degree,Junior Sales Representative,3.0,45000.0
+48.0,Female,PhD,Director of Marketing,19.0,190000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0
+35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0
+23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0
+26.0,Male,High School,Sales Manager,2.0,40000.0
+32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+27.0,Male,PhD,Marketing Manager,4.0,55000.0
+50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0
+48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0
+31.0,Male,High School,Sales Associate,3.0,50000.0
+29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0
+25.0,Female,High School,Sales Executive,1.0,35000.0
+38.0,Male,Master's Degree,Marketing Manager,12.0,120000.0
+27.0,Female,Bachelor's Degree,Sales Representative,3.0,45000.0
+43.0,Male,PhD,Content Marketing Manager,16.0,160000.0
+34.0,Female,High School,Sales Executive,5.0,70000.0
+30.0,Male,Bachelor's Degree,Sales Manager,6.0,75000.0
+46.0,Female,Master's Degree,Director of Marketing,17.0,170000.0
+25.0,Male,High School,Sales Associate,1.0,35000.0
+40.0,Female,Bachelor's Degree,Financial Manager,11.0,110000.0
+32.0,Male,PhD,Senior Product Marketing Manager,8.0,80000.0
+28.0,Female,Master's Degree,Digital Marketing Manager,4.0,55000.0
+44.0,Male,Bachelor's Degree,Content Marketing Manager,15.0,150000.0
+29.0,Female,High School,Sales Representative,2.0,40000.0
+51.0,Male,PhD,Marketing Manager,19.0,190000.0
+36.0,Female,Bachelor's Degree,Sales Executive,8.0,80000.0
+24.0,Male,Bachelor's Degree,Sales Manager,1.0,35000.0
+42.0,Female,Master's Degree,Director of Marketing,13.0,130000.0
+27.0,Male,High School,Financial Manager,3.0,45000.0
+33.0,Female,Bachelor's Degree,Sales Director,7.0,90000.0
+28.0,Male,PhD,Marketing Manager,4.0,55000.0
+51.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Sales Representative,7.0,90000.0
+49.0,Female,PhD,Senior Product Marketing Manager,20.0,200000.0
+32.0,Male,High School,Junior Sales Representative,3.0,40000.0
+30.0,Female,Bachelor's Degree,Sales Director,5.0,70000.0
+46.0,Male,Master's Degree,Director of Marketing,16.0,160000.0
+26.0,Female,High School,Sales Associate,1.0,35000.0
+42.0,Male,Bachelor's Degree,Financial Manager,13.0,130000.0
+36.0,Female,PhD,Marketing Manager,9.0,95000.0
+24.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0
+43.0,Female,Master's Degree,Sales Manager,14.0,140000.0
+27.0,Male,High School,Digital Marketing Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0
+28.0,Male,PhD,Sales Representative,4.0,55000.0
+51.0,Female,Master's Degree,Senior Product Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Junior Sales Representative,6.0,75000.0
+49.0,Female,PhD,Director of Marketing,20.0,200000.0
+32.0,Male,High School,Sales Associate,3.0,50000.0
+30.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+46.0,Male,Master's Degree,Marketing Manager,14.0,140000.0
+26.0,Female,High School,Sales Executive,1.0,35000.0
+42.0,Male,Bachelor's Degree,Content Marketing Manager,13.0,130000.0
+36.0,Female,PhD,Senior Product Marketing Manager,10.0,100000.0
+24.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+43.0,Female,Master's Degree,Digital Marketing Manager,15.0,150000.0
+27.0,Male,High School,Sales Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+28.0,Male,PhD,Marketing Manager,4.0,55000.0
+51.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Sales Director,7.0,90000.0
+49.0,Female,PhD,Senior Product Marketing Manager,20.0,200000.0
+32.0,Male,High School,Junior Sales Representative,3.0,40000.0
+30.0,Female,Bachelor's Degree,Sales Manager,5.0,70000.0
+46.0,Male,Master's Degree,Director of Marketing,16.0,160000.0
+26.0,Female,High School,Sales Associate,1.0,35000.0
+42.0,Male,Bachelor's Degree,Financial Manager,13.0,130000.0
+36.0,Female,PhD,Marketing Manager,9.0,95000.0
+24.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0
+43.0,Female,Master's Degree,Sales Manager,14.0,140000.0
+27.0,Male,High School,Digital Marketing Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0
+28.0,Male,PhD,Sales Representative,4.0,55000.0
+51.0,Female,Master's Degree,Senior Product Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Junior Sales Representative,6.0,75000.0
+49.0,Female,PhD,Director of Marketing,20.0,200000.0
+32.0,Male,High School,Sales Associate,3.0,50000.0
+30.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+46.0,Male,Master's Degree,Marketing Manager,14.0,140000.0
+26.0,Female,High School,Sales Executive,1.0,35000.0
+42.0,Male,Bachelor's Degree,Content Marketing Manager,13.0,130000.0
+36.0,Female,PhD,Senior Product Marketing Manager,10.0,100000.0
+24.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+43.0,Female,Master's Degree,Digital Marketing Manager,15.0,150000.0
+27.0,Male,High School,Sales Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+28.0,Male,PhD,Marketing Manager,4.0,55000.0
+51.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Sales Director,7.0,90000.0
+49.0,Female,PhD,Senior Product Marketing Manager,20.0,200000.0
+32.0,Male,High School,Junior Sales Representative,3.0,40000.0
+30.0,Female,Bachelor's Degree,Sales Manager,5.0,70000.0
+46.0,Male,Master's Degree,Director of Marketing,16.0,160000.0
+26.0,Female,High School,Sales Associate,1.0,35000.0
+42.0,Male,Bachelor's Degree,Financial Manager,13.0,130000.0
+36.0,Female,PhD,Marketing Manager,9.0,95000.0
+24.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0
+43.0,Female,Master's Degree,Sales Manager,14.0,140000.0
+27.0,Male,High School,Digital Marketing Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0
+28.0,Male,PhD,Sales Representative,4.0,55000.0
+51.0,Female,Master's Degree,Senior Product Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Junior Sales Representative,6.0,75000.0
+49.0,Female,PhD,Director of Marketing,20.0,200000.0
+32.0,Male,High School,Sales Associate,3.0,50000.0
+30.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+46.0,Male,Master's Degree,Marketing Manager,14.0,140000.0
+26.0,Female,High School,Sales Executive,1.0,35000.0
+42.0,Male,Bachelor's Degree,Content Marketing Manager,13.0,130000.0
+36.0,Female,PhD,Senior Product Marketing Manager,10.0,100000.0
+24.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0
+43.0,Female,Master's Degree,Digital Marketing Manager,15.0,150000.0
+27.0,Male,High School,Sales Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0
+28.0,Male,PhD,Marketing Manager,4.0,55000.0
+51.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Sales Director,7.0,90000.0
+49.0,Female,PhD,Senior Product Marketing Manager,20.0,200000.0
+32.0,Male,High School,Junior Sales Representative,3.0,40000.0
+30.0,Female,Bachelor's Degree,Sales Manager,5.0,70000.0
+46.0,Male,Master's Degree,Director of Marketing,16.0,160000.0
+26.0,Female,High School,Sales Associate,1.0,35000.0
+42.0,Male,Bachelor's Degree,Financial Manager,13.0,130000.0
+36.0,Female,PhD,Marketing Manager,9.0,95000.0
+24.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0
+43.0,Female,Master's Degree,Sales Manager,14.0,140000.0
+27.0,Male,High School,Digital Marketing Manager,2.0,40000.0
+33.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0
+28.0,Male,PhD,Sales Representative,4.0,55000.0
+51.0,Female,Master's Degree,Senior Product Marketing Manager,19.0,190000.0
+37.0,Male,Bachelor's Degree,Junior Sales Representative,6.0,75000.0
+49.0,Female,PhD,Director of Marketing,20.0,200000.0
+32.0,Male,High School,Sales Associate,3.0,50000.0
+30.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0
+46.0,Male,Master's Degree,Marketing Manager,14.0,140000.0
+26.0,Female,High School,Sales Executive,1.0,35000.0
