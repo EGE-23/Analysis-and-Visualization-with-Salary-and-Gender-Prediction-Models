@@ -1,0 +1,2 @@
+# Analysis-and-Visualization-with-Salary-and-Gender-Prediction-Models
+Bu projede, cinsiyet eşitliği konusunu teknoloji alanında ele alarak salary_data veri seti ile cinsiyet ve maaş tahmini için makine öğrenimi modelleri geliştirilmiştir. 'Cinsiyet' tahmini için Random Forest, 'Maaş' tahmini için Polinomsal Regresyon modeli kullanılmıştır. Bu çalışmalar, toplumsal eşitliği desteklemeyi amaçlamaktadır.
