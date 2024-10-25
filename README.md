@@ -11,7 +11,10 @@ RandomForest.ipynb ----> Random Forest classification algorithm was used for gen
 
 PolynomialRegression.ipynb ----> Polynomial regression model is preferred for salary forecasts to increase the depth of the analysis. The picture I added here is about why it is 3rd order because it causes problems when uploading it here.
 
-![Uploading hepsi 1.jpg…]()
+![hepsi 1](https://github.com/user-attachments/assets/cbc324de-232c-441a-82c7-f929b2136f73)
+
+
+
 
 
 
@@ -26,3 +29,6 @@ salary data.csv ----> Teknoloji/STEM alanı ile ilgili olan meslekler için anal
 RandomForest.ipynb ----> Cinsiyet tahmini için Random Forest sınıflandırma algoritması kullanıldı.
 
 PolinomsalRegresyon.ipynb ----> Maaş tahminlerinin gerçekleştirilmesinde polinomsal regresyon modeli tercih edilerek analizlerin derinliği artırılmıştır. Buraya yüklerken sorun çıkarttığı için buraya eklediğim resim de neden 3.dereceden olduğu ile ilgilidir. 
+
+![hepsi 1](https://github.com/user-attachments/assets/0a1aaa11-8dcc-4e75-a472-7f2b3705a7ac)
+
